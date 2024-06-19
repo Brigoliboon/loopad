@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "473150758669",
+    "firebase_url": "https://tour-4e5c2-default-rtdb.firebaseio.com",
+    "project_id": "tour-4e5c2",
+    "storage_bucket": "tour-4e5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473150758669:android:14cf3fee7ead05821a9a44",
+        "android_client_info": {
+          "package_name": "com.travel.tourista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrXl8kkx1eBQFyxL8-EeCJe1cVkg_uOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
